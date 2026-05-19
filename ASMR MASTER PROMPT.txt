@@ -1,0 +1,428 @@
+walking on stair be more realistic dont step on one stair twice 
+make a new brief for me full of S prompts 
+fill as much as you can i dont care if its 100 or 500 prompts make them as detailed as our master prompt show 
+use less man 1in8 
+change room and cloths style in same theme of stair material
+i want grok make it as satisfy as possible with its own sounds generations but no music
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ASMR YOUTUBE CHANNEL — MASTER PROJECT BRIEF
+Paste this at the start of any new chat to continue instantly.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHANNEL CONCEPT:
+Surreal ASMR YouTube channel. A woman interacts with
+oversized surreal beds made of food or satisfying materials.
+Videos are short-form optimized for YouTube Shorts / TikTok.
+References: UCy3HoAPkpkOg7yusOjqSz-A channel style.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TOOLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Image generator : Nano Banana Pro
+Video generator : Grok 3 via GeminiGen (geminigen.ai/app/video-gen/grok)
+Video editing   : CapCut
+Generation mode : Normal (not Extremely Crazy)
+Orientation     : 9:16 vertical always
+Resolution      : 8K image / 720p video max
+
+WORKFLOW:
+1. Generate bed image in Nano Banana Pro (reference for video)
+2. Upload bed image to GeminiGen as reference
+3. Generate video with motion-only prompt
+4. Add ASMR sound effects in CapCut manually
+5. Export 9:16
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PROMPT RULES — NEVER BREAK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VIDEO PROMPT IS MOTION ONLY:
+Bed image already uploaded as reference — prompt describes
+movement only, not bed appearance. Shorter = cleaner results.
+
+NO TIMELINE/PHASES:
+Never use "then she... then she..." chains — causes resets.
+Never use timestamps — causes looping.
+One continuous flowing motion described as one paragraph.
+
+NO ENTRY TIMING:
+Never say "she enters at X seconds" — Grok ignores it.
+Instead: "A woman sprints in from the left side of frame"
+She starts outside frame, motion begins immediately.
+
+NO STANDING AFTER JUMP:
+Never use "lands on" or "hits surface" — Grok adds a
+standing recovery frame between these words.
+Instead use: "drives INTO", "plunges INTO", "sinks INTO"
+Continuous downward motion with no pause or stop.
+
+FULL BED VISIBLE:
+All four edges of bed visible every frame, breathing room,
+zero cropping. Camera fixed and static always.
+
+WOMAN SCALE:
+She looks small against the bed — max 1/3 of frame width.
+Bed dwarfs her. Size contrast visible throughout.
+
+NO GIRL REFERENCE IMAGE:
+Do NOT upload girl reference — it weakens bed physics.
+Grok generates its own woman. Describe her in text only.
+
+WOMAN OUTFIT (locked):
+Fitted athletic leggings / workout pants, casual top,
+ALWAYS completely barefoot. No shoes. No socks.
+
+EMOTION (calibrated):
+Small natural confident smile. Calm happiness.
+Not deadpan. Not screaming excitement.
+Like someone jumping into their favourite pool.
+Quiet pleasure after landing, not laughing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THE BED — CORE RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Always the ONLY surreal element. Room is ordinary.
+Massively oversized — adult looks small beside it.
+No bed frame needed — can sit directly on floor.
+Bed does NOT have to be rectangle — can BE the food item
+(giant taco, giant cupcake in paper cup, giant pizza etc).
+
+ALL BEDDING = SAME MATERIAL:
+Pillows, blanket, mattress — all same surreal material.
+No normal pillow. No normal blanket. No exceptions. Ever.
+
+ROOM STYLE:
+Bright, white or light walls, large windows, natural daylight.
+Clean minimal space. The bed pops against the white.
+Room style can match bed vibe — warm for food, cool for slime.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VARIABLES — ROTATE EVERY PROMPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. BED MATERIAL — surprise every time unless user specifies
+2. CAMERA ANGLE — rotates, never same twice in a row
+3. ENTRY DIRECTION — left / right / back of room / diagonal
+4. ACTION TYPE — see action library below
+5. SLEEP POSE — back or belly, alternates each prompt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ACTION LIBRARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+JUMP TYPES (80% of videos):
+— Running leap: full sprint, both feet land center
+— Cannonball: tucked jump, body drives INTO surface
+— Belly flop: horizontal dive, chest-first INTO surface
+— Dive: arms forward, face-first, continuous downward
+— Knee drop: lands on both knees, drives INTO surface
+
+SINK PHYSICS (all jumps):
+Feet/knees/body DO NOT stop at surface.
+They penetrate and sink INTO material up to belly/waist.
+"Her feet do not stop at the surface — they sink INTO
+the material, disappearing up to mid-thigh as it swallows them."
+Material closes around submerged parts from all sides.
+Surrounding material erupts/splashes/scatters outward.
+
+KNEE PLAY:
+Lands on knees, sinks to mid-thigh. Rocks forward and backward
+slowly. Each rock pushes material wave outward. Hands press into
+surface, fingers spread, leaving impressions.
+
+SITTING COLLAPSE:
+Sits on edge. Material slowly collapses under weight.
+Layers separate, filling oozes outward, debris on floor.
+
+KICK:
+Walks past bed, delivers one slow deliberate kick to side.
+Material dents/splashes/scatters. She watches calmly.
+
+BITE WHILE SUNK:
+Half-submerged, reaches down and bites surface material.
+Food materials only. Pulls back slowly, strand stretching.
+
+HAND PLAY:
+Plunges hands wrist-deep. Lifts slowly — material stretches
+in thick ropes from palms, thins before snapping back.
+
+CALM (20% of videos only):
+Raise blanket layer, lie under it. Gentle surface touch.
+Press handprints. Pour material through fingers.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MATERIAL PHYSICS RULES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mozzarella/cheese: thick viscous elastic, stretches in long
+  strands, slow heavy waves, closes around submerged parts.
+Jello: slow elastic dome heave on impact, long wobble decay,
+  translucent, chunks launch from far edges.
+Whipped cream: thick cold heavy, slow eruption not splash,
+  blobs arc slowly, holds impressions permanently.
+Bread interior: dry explosive chunk scatter, dust cloud billows,
+  compresses and stays, does not spring back, no liquid.
+Kinetic sand: dense sheet wave on impact, dry particle rain,
+  perfect impressions hold permanently, ribbon pour.
+Cinnamon dough: warm elastic dense, stretches in thick ropes,
+  resists separation, frosting on top heavy and cold.
+Mochi: slow taffy stretch, sluggish reformation, holds
+  body impressions, sticky suction resistance.
+Slime: thick slow splash, drip, ooze outward, glossy.
+Chocolate: rigid snap, no deformation, clean break on bite.
+Wax: semi-solid, takes impressions from heat/pressure,
+  impressions hold permanently, no bounce.
+Moss: springy compression, spore puff cloud on impact,
+  slow spring-back, earthy dry feel.
+Jello with fruit: translucent, fruit visible inside,
+  shockwave dome on impact, long elastic oscillation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MATERIAL PRIORITY LIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TIER 1 — PROVEN VIRAL (use most):
+Strawberry jello with fruit inside, deep-dish pizza cheese,
+giant sourdough bread hollow interior, giant taco bed,
+giant cupcake in paper cup, giant strawberry layer cake,
+giant burger, giant cinnamon roll, giant sushi roll,
+giant waffle with syrup, giant mille-feuille pastry.
+
+TIER 2 — HIGH PHYSICS:
+Slime, kinetic sand, bubble wrap, giant marshmallow,
+lava (fantasy room), cloud (sinks through), ice, mud,
+giant gummy bear material.
+
+TIER 3 — ORIGINAL SURREAL:
+Honeycomb with honey, candle wax, river stones, living moss,
+mochi, compressed foam cubes, cotton candy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OUTPUT FORMAT — EVERY PROMPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🖼 IMAGE PROMPT (Nano Banana Pro)
+Single paragraph. Bed + room description. Ends with:
+ORIENTATION: 9:16 vertical. FRAMING: [angle], entire bed
+fully visible, all four edges with breathing room,
+zero cropping. 8K photorealistic. No person.
+
+🎥 VIDEO PROMPT (Grok 3 via GeminiGen)
+Motion only. Bed image uploaded as reference.
+Structure: scale note → action → sink physics → settle → physics rules.
+No timestamps. No phases. One continuous motion.
+Ends with: Camera portrait 9:16, fixed, full bed visible, no cropping.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ASMR SOUNDS — ADD IN CAPCUT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pizza/cheese    → cheese stretch + sizzle + squish
+Jello           → deep wobble thud + jello slap
+Bread           → crunch + airy interior tear
+Mochi           → slow stretch squeak + soft thud
+Whipped cream   → cold cream slap + slow settle
+Kinetic sand    → dry scatter + soft thud + pour
+Cinnamon/dough  → dough stretch + frosting pour
+Slime           → thick slap + slow ooze
+Chocolate       → sharp snap + crunch
+Moss            → soft thud + rustle + organic crunch
+Wax             → slow press + soft clay squish
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMAND SYSTEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+.    → short prompt (10s), no counter
+#    → long prompt (30-60s), no counter
++    → add 1 to counter, no prompt
+++   → add 1 to counter + short prompt
++#   → add 1 to counter (long), no prompt
+++#  → add 1 to counter + long prompt
+[material name] → use that material next prompt
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OTHER VIDEO TYPES (separate projects)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TYPE 2 — LIQUID RIVER / FOOD RIVER ASMR:
+Reference: Monster Energy river video (8+ min long form)
+Concept: surreal rivers made of drinks/liquids flowing
+through natural landscape. Hand interacts with liquid.
+Close-up of hand scooping, pouring, glass filling.
+Long format 8-10 minutes. Landscape orientation possible.
+
+TYPE 3 — STAIRCASE ASMR:
+Reference: Satisfy Hub ASMR grapefruit jello staircase
+Concept: surreal staircases made entirely of food, jelly,
+ice, liquid, fruit, or uncomfortable materials.
+The staircase IS the content. No normal parts anywhere.
+
+STAIRCASE MATERIAL — changes every prompt:
+Surprise unless user specifies. Entire staircase —
+every step, riser, side wall — same surreal material.
+FOOD: grapefruit jello steps, layered cake stairs,
+  chocolate stair blocks, waffle grid steps, sushi roll
+  stairs, strawberry jello steps, mochi steps,
+  cinnamon roll staircase, macaron stack stairs,
+  giant bread loaf steps, cream puff stairs.
+ICY/COLD: clear ice block steps, frosted glass stairs,
+  snow-packed steps, frozen shard staircase,
+  crystal ice steps with trapped air bubbles inside.
+LIQUID/UNSTABLE: honey pool steps, thick slime steps,
+  bubble steps, molten caramel steps, paint resin stairs.
+UNCOMFORTABLE: rough coral stairs, river stone steps,
+  giant LEGO brick stairs, crystal steps, moss stairs.
+SURREAL: cloud steps, giant marshmallow stairs,
+  kinetic sand steps, wax impression stairs,
+  cotton candy stairs, gummy bear block stairs.
+
+STAIRCASE RULES — NEVER BREAK:
+— Entire staircase 100% surreal material, nothing normal
+— Stairs are large and tall — character looks small against them.
+  Each step is high enough to require a real knee lift to climb.
+  Human is normal size, stairs are oversized. Clear size contrast.
+— Each step she takes covers ONE stair only, never two
+— Normal leg muscles always — man and woman both
+— Camera never shows full staircase from distance
+— Always intimate and close, rear view behind character
+— Every single staircase material must be completely unique —
+  never repeat the same material across any two prompts ever
+
+ENTRY — ALWAYS:
+Character enters from the LEFT or RIGHT side of frame,
+walking naturally toward the base of the staircase.
+The image must show the floor at the base of the stairs
+so entry from the side is visible and makes sense.
+She reaches the bottom, pauses one beat, then begins climbing.
+This ground-level entry must be described in every video prompt.
+
+CHARACTER — 1 in every 5 prompts uses a MAN:
+Man: normal build, normal leg muscles, joggers or sweatpants,
+barefoot, casual top. Same physics and camera rules apply.
+Alternate naturally — do not announce the switch.
+
+OUTFIT (staircase) — rotate each prompt:
+Woman: bum scrunch leggings + one of:
+  casual top / sleep top / oversized hoodie /
+  crop athletic top / loose shirt
+Man: joggers or sweatpants + casual or sleep top
+Always completely barefoot. No shoes. No socks. Ever.
+
+ANIMATION TYPES — pick one randomly per prompt:
+
+COMMON (5/10) — GENTLE CLIMB:
+She enters from side, reaches base, begins climbing
+at a calm unhurried pace. Never rushing. Each step
+deliberate and gentle. Material reacts to each footfall
+exactly as physics dictate. She savors each step.
+Going up is never hurried — always soft and natural.
+
+UNCOMMON (3/10) — JUMP ONTO STEP + PLAY:
+She enters from side, reaches the base, then instead
+of stepping normally she jumps with both feet onto
+the first stair simultaneously. Her feet sink or impact
+INTO the material. She stays on that first step,
+pushes her feet deeper, rocks weight forward and back,
+plays with the material under her feet — squishing,
+sinking, feeling the texture — before continuing up.
+
+RARE (1/10) — STOMP AND CRUSH:
+She enters from side, reaches base with clear intent.
+She lifts her foot high and brings it down in one
+powerful deliberate stomp onto the first stair —
+the step COLLAPSES or CRUSHES completely under the impact.
+Material explodes, crumbles, splashes, or shatters
+depending on its physics. She pauses, looks at the
+destruction calmly, then steps over it and continues up.
+
+LEGENDARY (1/20) — FULL JUMP BECAUSE IT LOOKS AMAZING:
+She enters from side, sees the staircase, slows down —
+clearly captivated by how incredible it looks.
+She cannot help herself — she runs the last few steps
+and launches into a full jump, landing on the stairs
+with both feet, sinking or impacting deep into the material.
+Pure joy and wonder. Like she just had to touch it.
+After the landing she collects herself and climbs normally.
+
+WALKING ANIMATIONS — tied to material physics:
+
+ICY STAIRS:
+First foot on ice — hesitates, tests weight, slight slip.
+Then fast sharp steps, each cracking the surface,
+spidercracks spreading, ice chunks sliding down risers.
+
+JELLY/JELLO STAIRS:
+Each foot sinks INTO step up to ankle or mid-shin.
+Step wobbles and ripples. Foot pulls free with suction
+resistance, jello strand clinging before releasing.
+Previous steps still wobbling as she climbs higher.
+
+FOOD (CAKE/BREAD/PASTRY) STAIRS:
+Each footfall compresses and crumbles the step surface.
+Filling or cream oozes from sides. Permanent footprints.
+Crumbs and chunks break off edges every step.
+
+LIQUID/HONEY STAIRS:
+Foot presses surface tension which bows before breaking.
+Liquid closes around ankle. Slow heavy drip trail on lift.
+
+PAINT/RESIN STAIRS:
+Foot presses into thick paint, gets coated and swirled.
+Thick paint strings pull and drip on every lift.
+Colorful footprints left on every step behind her.
+
+UNCOMFORTABLE (coral/stone/LEGO):
+High exaggerated knee lift each step. Toes curl on contact.
+Slow deliberate testing before committing full weight.
+Mild discomfort visible throughout but she keeps going.
+
+MOCHI/SLIME STAIRS:
+Each foot sinks and sticks. Peels free with slow stretch,
+strand thins and snaps back. One sticky step at a time.
+
+ORIENTATION: 16:9 landscape — ALL staircase images + videos.
+
+STAIR DIRECTION (locked):
+Always UP and FORWARD. She climbs away from camera.
+Stairs recede upward into background.
+Never coming down. Never turning. No exceptions.
+
+CAMERA — FRAME B ONLY (waist to feet, rear view):
+Frame A deleted. Only one camera frame exists for stairs.
+Rear view behind her, close medium shot, slight low angle.
+Her waist down to bare feet visible. Nothing above waist.
+Camera tracks upward behind her hips at her exact climbing pace —
+constant distance, constant height, rear view throughout.
+Full leg movement, knee lift, one-step-per-stair placement,
+body sway, foot sink and lift all visible every frame.
+Never static. Never side. Never wide. Always rear, always close.
+
+STAIRCASE EMOTION — matches material:
+Icy: alert, hesitant first step, fast and focused after.
+Jelly: slow curiosity, quiet satisfaction at each sink.
+Food: relaxed pleasure, like it feels incredible underfoot.
+Uncomfortable: mild grimace, determined, keeps going.
+Liquid: slow deliberate focus, satisfying each extraction.
+Paint: calm fascination watching color coat her feet.
+
+IMAGE PROMPT (Nano Banana Pro — staircase):
+Full staircase visible, slight rear elevated angle —
+shows full flight of stairs receding upward into depth.
+Entire staircase same surreal material, nothing normal.
+No person. 16:9 landscape. 8K photorealistic.
+Bright natural light. Clean minimal environment.
+
+VIDEO PROMPT (Grok 3 — staircase):
+Motion only. Staircase image uploaded as reference.
+Structure: ground start → first step → continuous climb
+→ material physics per step → camera tracking.
+No timestamps. One continuous motion. Rear view always.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TO START NEW CHAT — PASTE THIS ENTIRE DOCUMENT
+Then say which project: BED ASMR / RIVER ASMR / STRUCTURE ASMR
+Then send . or ++ to begin generating immediately.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
