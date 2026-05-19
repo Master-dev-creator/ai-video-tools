@@ -1,4 +1,4 @@
-# ai-video-tools
+# AI-ASMR-Video-Prompt-System
 This project is a full automated prompt generation system for AI ASMR video creation.
 
 The script generates highly detailed prompts for 3 different types of ASMR content. Users first create images using Nano Banana Pro, then generate videos from those images using Veo 3.1 Fast.
